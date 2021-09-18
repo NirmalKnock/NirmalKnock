@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://nova-five.vercel.app" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX?si=529877128bbc47d5)
+[<img src="https://nova-five.vercel.app.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX?si=529877128bbc47d5)
 
 [![Spotify](https://nova-five.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/rofoowgl8gggllonjheibv431)
 
