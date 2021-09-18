@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-[![Spotify](https://nova-five.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/rofoowgl8gggllonjheibv431)
+[![Spotify](https://https://novatorem-8pby5yg0g-nirmalknock-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/rofoowgl8gggllonjheibv431)
 
 
 ### Connect with me:
