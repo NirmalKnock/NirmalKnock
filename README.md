@@ -34,7 +34,14 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p align="left"> 
+ <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" width="50" height="50"/> </a> <a href="" target="_blank"> <img src="<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50" height="40"/> 
+ <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="40"/> 
+   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" width="50" height="40"/> </a>
+<a href="https://www.microchip.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Microchip-Logo.svg" alt="Microchip" width="60" height="40"/> </a>  <a href="https://www.arm.com/" target="_blank"> <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/arm-member.svg" alt="ARM" width="50" height="40"/> </a>  <a href="https://www.i2c-bus.org/" target="_blank"> <img src="https://github.com/detain/svg-logos/blob/master/svg/i2c-bus.svg" alt="SPI" width="50" height="40"/>   </a> <a href="https://en.wikipedia.org/wiki/Serial_Peripheral_Interface" target="_blank"> <img src="https://github.com/detain/svg-logos/blob/master/svg/spi.svg" alt="I2C" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="40"/> </a>
+  </p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hemachandirant&show_icons=true)  
