@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://statuss.vercel.app/api?username=NirmalKnock&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hemachandirant)  
 
 ![Profile views](https://gpvc.arturio.dev/NirmalKnock)  
 
