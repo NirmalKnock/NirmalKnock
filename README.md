@@ -1,22 +1,20 @@
-### Hi there 👋 I'm Nirmal Kumar A
+### Hi there 👋 I'm Nirmal Kumar 
 
 <!--
 **NirmalKnock/NirmalKnock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 💬 Ask me about ...
 Here are some ideas to get you started:
 -->
-## I'm a Graduate in Electrnics and commuication Engineering, currently making my carrer transition into Embedded systems| Internet Of Things!!
+## I'm a Graduate in Electronics and Communication Engineering, currently making my career transition into Embedded systems| Internet Of Things!!
 
-- 🔭 I’m currently looking for te fulltime role in Embedded software Development.
+- 🔭 I’m currently looking for a full-time role in Embedded Software Development.
 - 🌱 I’m currently learning in the field of Embedded Software.
 - 👯 I’m looking to collaborate on projects like Rtos, Device Drivers
 - 🤔 I’m looking for help with Professionals.
 - 📫 How to reach me: nirmalknock@gmail.com 
 
-
-
-- 👯 I’m very interested to develop a custom Firmware.
-- 🥅 2021 Goals: Contribute more to Embedded Porjects.
+- 👯 I’m very interested in developing custom Firmware.
+- 🥅 2021 Goals: Contribute more to Embedded Projects.
 - ⚡ Fun fact: I love to Produce music and videos.
 
 ### Spotify Playing 🎧
