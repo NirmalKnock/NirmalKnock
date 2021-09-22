@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hemachandirant&show_icons=true)  
+![GitHub stats](https://statuss.vercel.app/api?username=NirmalKnock&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hemachandirant)  
 
