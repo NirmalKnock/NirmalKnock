@@ -5,15 +5,15 @@
 - 💬 Ask me about ...
 Here are some ideas to get you started:
 -->
-## I'm a Graduate in Electronics and Communication Engineering, currently making my career transition into Embedded systems| Internet Of Things!!
+## I'm a Graduate in Electronics and Communication Engineering, currently making my career transition into Embedded systems !
 
 - 🔭 I’m currently looking for a full-time role in Embedded Software Development.
-- 🌱 I’m currently learning in the field of Embedded Software.
-- 👯 I’m looking to collaborate on projects like Rtos, Device Drivers
+- 🌱 I’m currently learning in the field of Embedded Firmwares.
+- 👯 I’m looking to collaborate on projects like RTOS, Device Drivers.
 - 🤔 I’m looking for help with Professionals.
 - 📫 How to reach me: nirmalknock@gmail.com 
 
-- 👯 I’m very interested in developing custom Firmware.
+- 👯 I’m very interested in Entertainment activities.
 - 🥅 2021 Goals: Contribute more to Embedded Projects.
 - ⚡ Fun fact: I love to Produce music and videos.
 
