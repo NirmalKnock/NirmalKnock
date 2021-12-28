@@ -9,12 +9,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a full-time role in Embedded Software Development.
 - 🌱 I’m currently learning in the field of Embedded Firmwares.
-- 👯 I’m looking to collaborate on projects like RTOS, Device Drivers.
 - 🤔 I’m looking for help with Professionals.
 - 📫 How to reach me: nirmalknock@gmail.com 
 
 - 👯 I’m very interested in Entertainment activities.
-- 🥅 2021 Goals: Contribute more to Embedded Projects.
+- 🥅 2022 Goals: Contribute more to Embedded Projects.
 - ⚡ Fun fact: I love to Produce music and videos.
 
 ### Spotify Playing 🎧
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages,Tools & Controllers:</h3>
 
 <p align="left"> 
  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="python" width="50" height="50"/> 
